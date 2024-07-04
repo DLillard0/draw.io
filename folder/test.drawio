@@ -1,74 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-07-04T09:42:19.640Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="c8bhQLx8lJGJ7Gnep78F" version="24.6.4" type="github">
-  <diagram id="tbkjT2GHbu9j4w1nobUu" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2024-07-04T09:42:43.585Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="n1NcboLHgJu3zsdDDOtb" version="24.6.4" type="github">
+  <diagram id="476EXZWqTvHqr7ODZmXf" name="Page-1">
     <mxGraphModel dx="984" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_9DmfC4BtdXTetFFxkik-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_9DmfC4BtdXTetFFxkik-1" target="_9DmfC4BtdXTetFFxkik-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_9DmfC4BtdXTetFFxkik-12" value="获取组件配置信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_9DmfC4BtdXTetFFxkik-11" vertex="1" connectable="0">
-          <mxGeometry x="-0.0118" y="2" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_9DmfC4BtdXTetFFxkik-1" value="editor" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_9DmfC4BtdXTetFFxkik-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_9DmfC4BtdXTetFFxkik-2" target="_9DmfC4BtdXTetFFxkik-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_9DmfC4BtdXTetFFxkik-10" value="获取组件构造函数" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_9DmfC4BtdXTetFFxkik-9" vertex="1" connectable="0">
-          <mxGeometry y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_9DmfC4BtdXTetFFxkik-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_9DmfC4BtdXTetFFxkik-2" target="_9DmfC4BtdXTetFFxkik-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="810" y="220" />
-              <mxPoint x="810" y="120" />
-              <mxPoint x="140" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_9DmfC4BtdXTetFFxkik-21" value="获取编辑器状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_9DmfC4BtdXTetFFxkik-20" vertex="1" connectable="0">
-          <mxGeometry x="0.0727" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_9DmfC4BtdXTetFFxkik-2" value="renderer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_9DmfC4BtdXTetFFxkik-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="_9DmfC4BtdXTetFFxkik-3" target="_9DmfC4BtdXTetFFxkik-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="430" y="170" />
-              <mxPoint x="710" y="170" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_9DmfC4BtdXTetFFxkik-17" value="获取全局状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_9DmfC4BtdXTetFFxkik-16" vertex="1" connectable="0">
-          <mxGeometry x="-0.0562" y="2" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_9DmfC4BtdXTetFFxkik-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_9DmfC4BtdXTetFFxkik-3" target="_9DmfC4BtdXTetFFxkik-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="430" y="270" />
-              <mxPoint x="140" y="270" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_9DmfC4BtdXTetFFxkik-19" value="获取编辑器状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_9DmfC4BtdXTetFFxkik-18" vertex="1" connectable="0">
-          <mxGeometry x="-0.0121" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="_9DmfC4BtdXTetFFxkik-3" value="components" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="370" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
